@@ -1,0 +1,93 @@
+formula_id,ingredient,amount_g,dilution_pct,note_type,cas_number
+F001,Bergamot Essential Oil,50.0,100,top,8007-75-8
+F001,Lemon Essential Oil,30.0,100,top,8008-56-8
+F001,Hedione,80.0,100,heart,24851-98-7
+F001,Geraniol,20.0,100,heart,106-24-1
+F001,Rose Absolute,10.0,100,heart,8007-01-0
+F001,Sandalwood,40.0,100,base,8006-87-9
+F001,Musks (Habanolide),60.0,100,base,3234-28-4
+F001,Ambrette Seed,15.0,100,base,8015-62-1
+F002,Bergamot Essential Oil,40.0,100,top,8007-75-8
+F002,Grapefruit Essential Oil,35.0,100,top,8016-20-4
+F002,Hedione,70.0,100,heart,24851-98-7
+F002,Geraniol,25.0,100,heart,106-24-1
+F002,Citronellol,15.0,100,heart,106-22-9
+F002,Phenylethyl Alcohol,30.0,100,heart,60-12-8
+F002,Sandalwood,35.0,100,base,8006-87-9
+F002,Iso E Super,50.0,100,base,54464-57-2
+F002,Musks (Habanolide),55.0,100,base,3234-28-4
+F003,Iso E Super,100.0,100,base,54464-57-2
+F003,Cedarwood,60.0,100,base,8000-27-9
+F003,Vetiver,40.0,100,base,8016-96-4
+F003,Bergamot Essential Oil,30.0,100,top,8007-75-8
+F003,Hedione,50.0,100,heart,24851-98-7
+F003,Musks (Habanolide),70.0,100,base,3234-28-4
+F003,Ambroxan,20.0,100,base,6790-58-5
+F004,Rose Absolute,20.0,100,heart,8007-01-0
+F004,Geraniol,40.0,100,heart,106-24-1
+F004,Citronellol,30.0,100,heart,106-22-9
+F004,Phenylethyl Alcohol,50.0,100,heart,60-12-8
+F004,Linalool,25.0,100,heart,78-70-6
+F004,Hedione,60.0,100,heart,24851-98-7
+F004,Musks (Habanolide),80.0,100,base,3234-28-4
+F004,Sandalwood,30.0,100,base,8006-87-9
+F005,Lavender Essential Oil,80.0,100,top,8000-28-0
+F005,Bergamot Essential Oil,40.0,100,top,8007-75-8
+F005,Linalool,60.0,100,heart,78-70-6
+F005,Hedione,50.0,100,heart,24851-98-7
+F005,Coumarin,30.0,100,base,91-64-5
+F005,Musks (Habanolide),70.0,100,base,3234-28-4
+F005,Sandalwood,45.0,100,base,8006-87-9
+F006,Citrus Limon (Lemon),45.0,100,top,8008-56-8
+F006,Bergamot Essential Oil,35.0,100,top,8007-75-8
+F006,Neroli,25.0,10,top,72968-50-4
+F006,Hedione,65.0,100,heart,24851-98-7
+F006,Jasmine Absolute,15.0,10,heart,8022-96-6
+F006,Musks (Habanolide),75.0,100,base,3234-28-4
+F006,Ambroxan,25.0,100,base,6790-58-5
+F006,Vetiver,20.0,100,base,8016-96-4
+F007,Iso E Super,90.0,100,base,54464-57-2
+F007,Ambroxan,30.0,100,base,6790-58-5
+F007,Cedarwood,50.0,100,base,8000-27-9
+F007,Bergamot Essential Oil,25.0,100,top,8007-75-8
+F007,Hedione,45.0,100,heart,24851-98-7
+F007,Musks (Habanolide),65.0,100,base,3234-28-4
+F007,Sandalwood,40.0,100,base,8006-87-9
+F008,Jasmine Absolute,20.0,10,heart,8022-96-6
+F008,Rose Absolute,15.0,100,heart,8007-01-0
+F008,Geraniol,35.0,100,heart,106-24-1
+F008,Hedione,55.0,100,heart,24851-98-7
+F008,Phenylethyl Alcohol,45.0,100,heart,60-12-8
+F008,Musks (Habanolide),90.0,100,base,3234-28-4
+F008,Sandalwood,35.0,100,base,8006-87-9
+F008,Bergamot Essential Oil,30.0,100,top,8007-75-8
+F009,Patchouli,60.0,100,base,8014-09-3
+F009,Vetiver,50.0,100,base,8016-96-4
+F009,Iso E Super,70.0,100,base,54464-57-2
+F009,Bergamot Essential Oil,20.0,100,top,8007-75-8
+F009,Hedione,40.0,100,heart,24851-98-7
+F009,Musks (Habanolide),80.0,100,base,3234-28-4
+F009,Cedarwood,45.0,100,base,8000-27-9
+F010,Bergamot Essential Oil,55.0,100,top,8007-75-8
+F010,Grapefruit Essential Oil,40.0,100,top,8016-20-4
+F010,Lemon Essential Oil,25.0,100,top,8008-56-8
+F010,Hedione,60.0,100,heart,24851-98-7
+F010,Geraniol,20.0,100,heart,106-24-1
+F010,Musks (Habanolide),85.0,100,base,3234-28-4
+F010,Ambroxan,15.0,100,base,6790-58-5
+F011,Lavender Essential Oil,70.0,100,top,8000-28-0
+F011,Bergamot Essential Oil,30.0,100,top,8007-75-8
+F011,Hedione,55.0,100,heart,24851-98-7
+F011,Linalool,50.0,100,heart,78-70-6
+F011,Iso E Super,40.0,100,base,54464-57-2
+F011,Musks (Habanolide),75.0,100,base,3234-28-4
+F011,Cedarwood,40.0,100,base,8000-27-9
+F011,Sandalwood,30.0,100,base,8006-87-9
+F012,Neroli,30.0,10,top,72968-50-4
+F012,Bergamot Essential Oil,45.0,100,top,8007-75-8
+F012,Jasmine Absolute,25.0,10,heart,8022-96-6
+F012,Rose Absolute,20.0,100,heart,8007-01-0
+F012,Hedione,65.0,100,heart,24851-98-7
+F012,Musks (Habanolide),70.0,100,base,3234-28-4
+F012,Sandalwood,50.0,100,base,8006-87-9
+F012,Ambroxan,20.0,100,base,6790-58-5
